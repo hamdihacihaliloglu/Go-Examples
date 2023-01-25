@@ -16,3 +16,7 @@ Go dilinde dögüler ve kullanımı ile ilgili örnekler : Basit bir bigo notasy
 
 ### 04 loops02
 Go dilinde döngü kullanımı örnekleri devamı : Asal sayı kontrolü ve arkadaş sayılar algoritması 
+
+### 05 arrays
+Go dilinde dizi kullanımı örnekleri : dizi oluşturma , en büyük sayıyı bulma.
+
