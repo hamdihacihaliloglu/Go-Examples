@@ -20,3 +20,6 @@ Go dilinde döngü kullanımı örnekleri devamı : Asal sayı kontrolü ve arka
 ### [05 Arrays](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/05_arrays)
 Go dilinde dizi kullanımı örnekleri : dizi oluşturma , en büyük sayıyı bulma.
 
+### [06 Slice](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/06_slice)
+Go dilinde slice kullanımı ile ilgili örnekler : names( append kullanımı), workshop (append,copy,slice tanımlama,dizinin belirli indisten sonrasını yazdırma)
+
