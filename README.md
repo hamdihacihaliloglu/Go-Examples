@@ -1,7 +1,7 @@
 # Go_Examples
 Programlamaya başlamak isteyen ve bunu yaparken Go programlama dilini kullanıcak olan programcılara (basitten orta seviyeye) algoritma örneklerinin bulunduğu github deposu
 
-### [01 Variables and data type] (https://github.com/hamdihacihaliloglu/Go_Examples/tree/main/01_variables_and_data_type)
+### [01 Variables and data type](https://github.com/hamdihacihaliloglu/Go_Examples/tree/main/01_variables_and_data_type)
 Değişken kavramı ve tanımlarken kullanılan veri tiplerini(int,bool,string vb.) içeren örnekler.
 
 ### [02 Moduls and package](https://github.com/hamdihacihaliloglu/Go_Examples/tree/main/02_moduls_and_package)
