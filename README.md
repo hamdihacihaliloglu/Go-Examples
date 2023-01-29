@@ -26,4 +26,7 @@ Go dilinde slice kullanımı ile ilgili örnekler : names( append kullanımı), 
 ### [07 Function](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/07_function)
 Go dilinde fonksiyon kullanımı :Basit bir hesap makinesi yapımı ve variadic fonksiyonların kullanımı
 
+### [08 Map and Range](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/08_map_and_for_range)
+Go dilinde map ve range kullanımı ile ilgili örnekler: map,range, delete kullanımı
+
 
