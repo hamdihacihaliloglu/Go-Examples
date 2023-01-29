@@ -23,3 +23,7 @@ Go dilinde dizi kullanımı örnekleri : dizi oluşturma , en büyük sayıyı b
 ### [06 Slice](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/06_slice)
 Go dilinde slice kullanımı ile ilgili örnekler : names( append kullanımı), workshop (append,copy,slice tanımlama,dizinin belirli indisten sonrasını yazdırma)
 
+### [07 Function](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/07_function)
+Go dilinde fonksiyon kullanımı :Basit bir hesap makinesi yapımı ve variadic fonksiyonların kullanımı
+
+
