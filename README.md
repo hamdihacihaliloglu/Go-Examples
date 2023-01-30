@@ -29,4 +29,7 @@ Go dilinde fonksiyon kullanımı :Basit bir hesap makinesi yapımı ve variadic 
 ### [08 Map and Range](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/08_map_and_for_range)
 Go dilinde map ve range kullanımı ile ilgili örnekler: map,range, delete kullanımı
 
+### [09 Pointer](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/09_pointer)
+Go dilinde pointer kullanımı ile ilgili örnekler: fonksiyona gönderilen bir sayı'nın main fonksiyonunda ki değerini arttırma,bir sayının değerini ve adresini yazdırma.  
+
 
