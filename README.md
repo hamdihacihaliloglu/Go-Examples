@@ -1,5 +1,5 @@
 # Go_Examples
-Go programlama dilini öğrenirken temelden orta seviyeye doğru yaptığım algoritma örnekleri.
+Go programlama dilinin temellerini ve syntax yapısını öğrenirken yazdığım örnekler. (Güncellenmeye devam etmektedir.)
 
 ### [01 Variables and data type](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/01_variables_and_data_type)
 Değişken kavramı ve tanımlarken kullanılan veri tiplerini(int,bool,string vb.) içeren örnekler.
@@ -34,5 +34,9 @@ Go dilinde pointer kullanımı ile ilgili örnekler: fonksiyona gönderilen bir 
 
 ### [10 Struct](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/10_struct)
 Go dilinde struct tanımlama ve structları fonksiyonlar ile kullanma.  
+
+### [10 Go Routine - Go Channel](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/11_goroutine_and_gochannel)
+Go dilinde go routine ve go channel oluşturma asenkron programlama mantığı :Go routine ve go channel kullanarak basit bir gelir gider hesaplama programı.   
+
 
 
