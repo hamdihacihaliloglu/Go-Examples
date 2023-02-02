@@ -1,5 +1,5 @@
 # Go_Examples
-Programlamaya başlamak isteyen ve bunu yaparken Go programlama dilini kullanıcak olan programcılara (basitten orta seviyeye) algoritma örneklerinin bulunduğu github deposu
+Go programlama dilini öğrenirken temelden orta seviyeye doğru yaptığım algoritma örnekleri.
 
 ### [01 Variables and data type](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/01_variables_and_data_type)
 Değişken kavramı ve tanımlarken kullanılan veri tiplerini(int,bool,string vb.) içeren örnekler.
@@ -30,6 +30,9 @@ Go dilinde fonksiyon kullanımı :Basit bir hesap makinesi yapımı ve variadic 
 Go dilinde map ve range kullanımı ile ilgili örnekler: map,range, delete kullanımı
 
 ### [09 Pointer](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/09_pointer)
-Go dilinde pointer kullanımı ile ilgili örnekler: fonksiyona gönderilen bir sayı'nın main fonksiyonunda ki değerini arttırma,bir sayının değerini ve adresini yazdırma.  
+Go dilinde pointer kullanımı ile ilgili örnekler: fonksiyona gönderilen bir sayı'nın main fonksiyonunda ki değerini arttırma,bir sayının değerini ve adresini yazdırma.
+
+### [10 Struct](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/10_struct)
+Go dilinde struct tanımlama ve structları fonksiyonlar ile kullanma.  
 
 
