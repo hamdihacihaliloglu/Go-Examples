@@ -1,5 +1,5 @@
 # Go_Examples
-Go programlama dilinin temellerini ve syntax yapısını öğrenirken yazdığım örnekler. (Güncellenmeye devam etmektedir.)
+Go programlama dilinin temellerini ve syntax yapısını öğrenirken yazdığım örnekler. (Güncellenmeye devam ediyorum.)
 
 ### [01 Variables and data type](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/01_variables_and_data_type)
 Değişken kavramı ve tanımlarken kullanılan veri tiplerini(int,bool,string vb.) içeren örnekler.
