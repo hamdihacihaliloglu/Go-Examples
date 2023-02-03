@@ -38,5 +38,8 @@ Go dilinde struct tanımlama ve structları fonksiyonlar ile kullanma.
 ### [11 Go Routine - Go Channel](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/11_goroutine_and_gochannel)
 Go dilinde go routine ve go channel oluşturma asenkron programlama mantığı :Go routine ve go channel kullanarak basit bir gelir gider hesaplama programı.   
 
+### [12 Interface](https://github.com/hamdihacihaliloglu/Go-Examples/tree/main/12_interface)
+Go dilinde temel seviyede interface kullanma mantığı. 
+
 
 
